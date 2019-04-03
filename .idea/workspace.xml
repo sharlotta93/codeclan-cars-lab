@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2c57bca-2f3c-4e5d-83e7-ae803f17083c" name="Default Changelist" comment="" />
+    <list default="true" id="c2c57bca-2f3c-4e5d-83e7-ae803f17083c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/EngineType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/VehicleBrand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ArnoldCodeClan/Vehicles/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ArnoldCodeClan/Vehicles/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ArnoldCodeClan/Vehicles/Van.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ArnoldCodeClan/Vehicles/Van.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/ArnoldCodeClan/Vehicles/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ArnoldCodeClan/Vehicles/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/Dealership/DealershipTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/Dealership/DealershipTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/Vehicles/CarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/Vehicles/CarTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/Vehicles/VanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/Vehicles/VanTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Van.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Van.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Dealership/DealershipTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Dealership/DealershipTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Vehicles/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Vehicles/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Vehicles/VanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Vehicles/VanTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -26,91 +44,35 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="26" />
+          <entry key="java" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="26" />
+          <entry key="JAVA" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3903" />
+          <entry key="java" value="4375" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3903" />
+          <entry key="JAVA" value="4375" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Vehicle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-              <folding>
-                <element signature="e#419#420#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
-                <element signature="e#545#546#0" expanded="true" />
-                <element signature="e#574#575#0" expanded="true" />
-                <element signature="e#608#609#0" expanded="true" />
-                <element signature="e#638#639#0" expanded="true" />
-                <element signature="e#670#671#0" expanded="true" />
-                <element signature="e#700#701#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Van.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-              <folding>
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Vehicles/VanTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="20" selection-end-column="49" />
+            <state relative-caret-position="-174">
+              <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Dealership/Dealership.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="65" column="46" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-                <element signature="e#571#572#0" expanded="true" />
-                <element signature="e#606#607#0" expanded="true" />
-                <element signature="e#931#932#0" expanded="true" />
-                <element signature="e#965#966#0" expanded="true" />
-                <element signature="e#1006#1007#0" expanded="true" />
-                <element signature="e#1033#1034#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Dealership/DealershipTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="83" column="47" lean-forward="true" selection-start-line="83" selection-start-column="47" selection-end-line="83" selection-end-column="47" />
+            <state relative-caret-position="343">
+              <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,34 +91,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Customer/CustomerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/EngineType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="58" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Vehicles/CarTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="21" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#552#553#0" expanded="true" />
-                <element signature="e#604#605#0" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
-                <element signature="e#740#741#0" expanded="true" />
-                <element signature="e#1001#1002#0" expanded="true" />
-                <element signature="e#1045#1046#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -165,13 +108,88 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Engine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Vehicles/EngineTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Van.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#700#701#0" expanded="true" />
+                <element signature="e#852#853#0" expanded="true" />
+                <element signature="e#890#891#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Vehicles/CarTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/VehicleBrand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -184,8 +202,12 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -483,27 +505,31 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Customer/Customer.java" />
         <option value="$PROJECT_DIR$/src/test/java/Customer/CustomerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Engine.java" />
         <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/IEngine.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Car.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Vehicles/CarTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Van.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Vehicles/VanTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Dealership/Till.java" />
         <option value="$PROJECT_DIR$/src/test/java/Dealership/TillTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Dealership/DealershipTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Dealership/Dealership.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Customer/Customer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/CarBrand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Van.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/VehicleBrand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/EngineType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Engine.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Dealership/DealershipTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Vehicles/CarTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Vehicles/VanTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="796" />
+    <option name="height" value="797" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -543,15 +569,6 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ArnoldCodeClan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codeclan-cars-lab" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codeclan-cars-lab" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ArnoldCodeClan" type="462c0819:PsiDirectoryNode" />
-              <item name="Dealership" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codeclan-cars-lab" type="b2602c69:ProjectViewProjectNode" />
@@ -606,7 +623,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554300704142" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554302002056" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -654,27 +671,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_com_codeclan_example_codeclan-cars-lab_test - 2019.04.03 at 14h 15m 35s.xml">
-      <configuration name="All in com.codeclan.example.codeclan-cars-lab.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_com_codeclan_example_codeclan-cars-lab_test - 2019.04.03 at 14h 16m 42s.xml">
-      <configuration name="All in com.codeclan.example.codeclan-cars-lab.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_com_codeclan_example_codeclan-cars-lab_test - 2019.04.03 at 14h 17m 05s.xml">
-      <configuration name="All in com.codeclan.example.codeclan-cars-lab.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_com_codeclan_example_codeclan-cars-lab_test - 2019.04.03 at 14h 23m 24s.xml">
-      <configuration name="All in com.codeclan.example.codeclan-cars-lab.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_com_codeclan_example_codeclan-cars-lab_test - 2019.04.03 at 14h 26m 02s.xml">
-      <configuration name="All in com.codeclan.example.codeclan-cars-lab.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_com_codeclan_example_codeclan-cars-lab_test - 2019.04.03 at 14h 58m 09s.xml">
-      <configuration name="All in com.codeclan.example.codeclan-cars-lab.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_com_codeclan_example_codeclan-cars-lab_test - 2019.04.03 at 14h 58m 35s.xml">
-      <configuration name="All in com.codeclan.example.codeclan-cars-lab.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_com_codeclan_example_codeclan-cars-lab_test - 2019.04.03 at 15h 02m 01s.xml">
       <configuration name="All in com.codeclan.example.codeclan-cars-lab.test" configurationId="JUnit" />
     </history-entry>
@@ -684,9 +680,30 @@
     <history-entry file="All_in_com_codeclan_example_codeclan-cars-lab_test - 2019.04.03 at 15h 04m 50s.xml">
       <configuration name="All in com.codeclan.example.codeclan-cars-lab.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_com_codeclan_example_codeclan-cars-lab_test - 2019.04.03 at 15h 10m 09s.xml">
+      <configuration name="All in com.codeclan.example.codeclan-cars-lab.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_example_codeclan-cars-lab_test - 2019.04.03 at 15h 10m 41s.xml">
+      <configuration name="All in com.codeclan.example.codeclan-cars-lab.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_example_codeclan-cars-lab_test - 2019.04.03 at 15h 11m 11s.xml">
+      <configuration name="All in com.codeclan.example.codeclan-cars-lab.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_example_codeclan-cars-lab_test - 2019.04.03 at 15h 11m 18s.xml">
+      <configuration name="All in com.codeclan.example.codeclan-cars-lab.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_example_codeclan-cars-lab_test - 2019.04.03 at 15h 11m 46s.xml">
+      <configuration name="All in com.codeclan.example.codeclan-cars-lab.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_example_codeclan-cars-lab_test - 2019.04.03 at 15h 19m 15s.xml">
+      <configuration name="All in com.codeclan.example.codeclan-cars-lab.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_example_codeclan-cars-lab_test - 2019.04.03 at 15h 26m 23s.xml">
+      <configuration name="All in com.codeclan.example.codeclan-cars-lab.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="800" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -694,16 +711,16 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.32909605" />
-      <window_info anchor="bottom" id="Messages" weight="0.32909605" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33049646" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -723,79 +740,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/Vehicles/EngineTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Customer/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-          <folding>
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Engine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/IEngine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding>
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#608#609#0" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -828,71 +776,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Vehicles/CarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="21" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-            <element signature="e#1001#1002#0" expanded="true" />
-            <element signature="e#1045#1046#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Van.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-          <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Vehicles/VanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="20" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Customer/CustomerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Dealership/DealershipTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="83" column="47" lean-forward="true" selection-start-line="83" selection-start-column="47" selection-end-line="83" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Dealership/Dealership.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="65" column="46" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
+        <state relative-caret-position="87">
+          <caret line="56" column="62" selection-start-line="56" selection-start-column="62" selection-end-line="56" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#495#496#0" expanded="true" />
@@ -903,6 +790,132 @@
             <element signature="e#965#966#0" expanded="true" />
             <element signature="e#1006#1007#0" expanded="true" />
             <element signature="e#1033#1034#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Customer/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Customer/CustomerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Van.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Vehicles/EngineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/VehicleBrand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/EngineType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Dealership/DealershipTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArnoldCodeClan/Vehicles/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Vehicles/CarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Vehicles/VanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-174">
+          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

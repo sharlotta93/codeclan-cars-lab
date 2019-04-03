@@ -1,10 +1,8 @@
 package Vehicles;
 
-import ArnoldCodeClan.Vehicles.IEngine;
+import ArnoldCodeClan.Vehicles.*;
 import org.junit.Before;
 import org.junit.Test;
-import ArnoldCodeClan.Vehicles.Car;
-import ArnoldCodeClan.Vehicles.Engine;
 
 
 import static org.junit.Assert.assertEquals;
@@ -18,8 +16,8 @@ public class CarTest {
 
     @Before
     public void before() {
-        engine = new Engine("Hybrid");
-        car = new Car("Honda", 2000.00, engine, "Civic");
+        engine = new Engine(EngineType.HYBRID);
+        car = new Car(VehicleBrand.HONDA, 2000.00, engine, "Civic");
     }
 
     @Test
@@ -51,5 +49,12 @@ public class CarTest {
     @Test
     public void hasFalseRentalState() {
         assertFalse(car.isForRent());
+    }
+
+    @Test
+    public void canChangeEngine() {
+        IEngine newEngine = new Engine(EngineType.ELECTRIC);
+        car.changeEngine(newEngine);
+        assertEquals("Electric", car.getEngine());
     }
 }

@@ -1,8 +1,6 @@
 package Vehicles;
 
-import ArnoldCodeClan.Vehicles.Van;
-import ArnoldCodeClan.Vehicles.Engine;
-import ArnoldCodeClan.Vehicles.IEngine;
+import ArnoldCodeClan.Vehicles.*;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -17,8 +15,8 @@ public class VanTest {
 
     @Before
     public void before() {
-        engine = new Engine("Diesel");
-        van = new Van("Suzuki", 3000.00, engine);
+        engine = new Engine(EngineType.DIESEL);
+        van = new Van(VehicleBrand.SUZUKI, 3000.00, engine);
     }
 
     @Test
@@ -38,7 +36,7 @@ public class VanTest {
     }
 
     @Test
-    public void canChangePricetoHigher() {
+    public void canChangePriceToHigher() {
         van.changePrice(500.00);
         assertEquals(3500.00, van.getPrice(), 2);
     }

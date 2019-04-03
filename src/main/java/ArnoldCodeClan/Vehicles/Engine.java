@@ -2,13 +2,13 @@ package ArnoldCodeClan.Vehicles;
 
 public class Engine implements IEngine{
 
-    private String type;
+    private EngineType type;
 
-    public Engine(String type) {
+    public Engine(EngineType type) {
         this.type = type;
     }
 
     public String getEngineType() {
-        return type;
+        return type.getEngine();
     }
 }

@@ -2,12 +2,12 @@ package ArnoldCodeClan.Vehicles;
 
 public abstract class Vehicle {
 
-    private String make;
+    private VehicleBrand make;
     private double price;
     private IEngine engine;
     private boolean forRent;
 
-    public Vehicle(String make, double price, IEngine engine) {
+    public Vehicle(VehicleBrand make, double price, IEngine engine) {
         this.make = make;
         this.price = price;
         this.engine = engine;
@@ -15,7 +15,7 @@ public abstract class Vehicle {
     }
 
     public String getMake() {
-        return make;
+        return make.getBrand();
     }
 
     public double getPrice() {
@@ -36,6 +36,10 @@ public abstract class Vehicle {
 
     public void setRentalState(boolean newRentalState) {
         forRent = newRentalState;
+    }
+
+    public void changeEngine(IEngine newEngine) {
+        this.engine = newEngine;
     }
 
 }

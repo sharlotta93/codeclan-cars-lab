@@ -4,7 +4,7 @@ public class Car extends Vehicle{
 
     String model;
 
-    public Car(String make, double price, IEngine engine, String model) {
+    public Car(VehicleBrand make, double price, IEngine engine, String model) {
         super(make, price, engine);
         this.model = model;
     }
@@ -12,4 +12,5 @@ public class Car extends Vehicle{
     public String getModel() {
         return model;
     }
+
 }

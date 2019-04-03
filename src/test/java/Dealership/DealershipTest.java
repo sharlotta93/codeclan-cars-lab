@@ -3,10 +3,7 @@ package Dealership;
 import ArnoldCodeClan.Customer.Customer;
 import ArnoldCodeClan.Dealership.Dealership;
 import ArnoldCodeClan.Dealership.Till;
-import ArnoldCodeClan.Vehicles.Car;
-import ArnoldCodeClan.Vehicles.Engine;
-import ArnoldCodeClan.Vehicles.Van;
-import ArnoldCodeClan.Vehicles.Vehicle;
+import ArnoldCodeClan.Vehicles.*;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -26,10 +23,10 @@ public class DealershipTest {
     public void before() {
         till = new Till(20000.00);
         dealership = new Dealership(till);
-        goodEngine = new Engine("Hybrid");
-        car = new Car("Honda", 2000.00, goodEngine, "Civic");
-        badEngine = new Engine("Diesel");
-        van = new Van("Suzuki", 3000.00, badEngine);
+        goodEngine = new Engine(EngineType.HYBRID);
+        car = new Car(VehicleBrand.HONDA, 2000.00, goodEngine, "Civic");
+        badEngine = new Engine(EngineType.DIESEL);
+        van = new Van(VehicleBrand.SUZUKI, 3000.00, badEngine);
         customer = new Customer("Bob", 52, true, 3000.00);
     }
 
